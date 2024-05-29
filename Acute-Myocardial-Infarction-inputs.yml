@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/acute-myocardial-infarction-ami-elevation---primary.py
+inputModule3:
+  class: File
+  path: python/acute-myocardial-infarction-ami-thrombosis---primary.py
+inputModule4:
+  class: File
+  path: python/acute-myocardial-infarction-ami---primary.py
+inputModule5:
+  class: File
+  path: python/lateral-acute-myocardial-infarction-ami---primary.py
+inputModule6:
+  class: File
+  path: python/acute-myocardial-infarction-ami-posterior---primary.py
+inputModule7:
+  class: File
+  path: python/acute-myocardial-infarction-ami-anterior---primary.py
+inputModule8:
+  class: File
+  path: python/acute-myocardial-infarction-ami-heart---primary.py
+inputModule9:
+  class: File
+  path: python/subendocardial-acute-myocardial-infarction-ami---primary.py
+inputModule10:
+  class: File
+  path: python/acute-myocardial-infarction-ami-inferior---primary.py
+inputModule11:
+  class: File
+  path: python/anteroseptal-acute-myocardial-infarction-ami---primary.py
+inputModule12:
+  class: File
+  path: python/acute-myocardial-infarction-ami-unspecif---primary.py
+inputModule13:
+  class: File
+  path: python/other-acute-myocardial-infarction-ami---primary.py
+inputModule14:
+  class: File
+  path: python/infarction---primary.py
+inputModule15:
+  class: File
+  path: python/postoperative-acute-myocardial-infarction-ami---primary.py
+inputModule16:
+  class: File
+  path: python/acute-myocardial-infarction-ami-following---primary.py
+inputModule17:
+  class: File
+  path: python/transluminal-acute-myocardial-infarction-ami---primary.py
+inputModule18:
+  class: File
+  path: python/certain-acute-myocardial-infarction-ami---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
